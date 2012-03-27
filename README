@@ -1,16 +1,16 @@
 Setting up the readme so that we can generate some merge conflicts.
 
-2
-2
-4
-<<<<<<< HEAD
-5
-9
-6
+1
 2
 3
-=======
+<<<<<<< HEAD
+4
+5
 6
+7
+8
+=======
+9
 7
 5
 >>>>>>> 8cf01aff87e4f5cab7a8ca3765b07595078d9d6a
