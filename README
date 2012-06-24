@@ -1,18 +1,32 @@
+asdfasdsdadfdasdfadssdasd<<<<<<< HEAD
+asdfasd
+=======
 adaSetting up the readme so that we can generate some merge conflicts.
 
+asdfasdf
+asdfasd
+
+33
+44
+66
+<<<<<<< HEAD
+2
 1
-2
-3
-<<<<<< HEAD
-5
-959
-63
-2
-3
+<<<<<<< HEAD
+7
+8
+52
+4
 =======
-6
+7
+8
+9
+>>>>>>> d142447a1aac0713d81311fc20bb1309eb55fd24
+=======
+9
 7
 5
 >>>>>>> 8cf01aff87e4f5cab7a8ca3765b07595078d9d6a
 10
 1
+>>>>>>> 384672d244d930ec6da05ae5a4d8b7f08db6dda8
