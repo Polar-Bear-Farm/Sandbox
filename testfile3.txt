@@ -5,3 +5,5 @@ sdads
 
 
 asdasd
+
+http://cortex.polarbearfarm.com:5984/cortex-15/_design/cortex/_view/patients?startkey=["0","qw"]&endkey=["\ufff0","qw\ufff0"]
