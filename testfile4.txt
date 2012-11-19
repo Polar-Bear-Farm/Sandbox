@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 981291dfghjkl;iw45ht945h34ith3sdfsdakdffghldfg85h2jsdxsdfgsdfgssfadasdksjfnskjnfk≈
+=======
+sdfsdfddfghjkl;iw45ht945h34ith3sdfsdakdffghldfg85h2jsdxsdfgsdfgssfadasdksjfnskjnfk≈
+>>>>>>> a069b8c257e9b271406272c335daa759296dc5c7
